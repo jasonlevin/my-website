@@ -1,0 +1,5 @@
+baseURL = "https://jasonlevin.co/"
+languageCode = "en-us"
+title = "Jason Levin"
+
+theme = "hugo-theme-dimension"

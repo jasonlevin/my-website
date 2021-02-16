@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jasonlevin.co/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jasonlevin.co/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jasonlevin.co/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jasonlevin.co/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jasonlevin.co/elements/</loc>
+  </url>
+
+  <url>
+    <loc>https://jasonlevin.co/research/</loc>
+  </url>
+  
+</urlset>
